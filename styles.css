@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    margin-top: 200px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/015/220/779/non_2x/black-and-golden-certificate-template-design-free-vector.jpg");
+  }
+  
+  h1 {
+    color: black;
+    text-align: center;
+  }
+  
+  form {
+    margin-top: 20px;   
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+
+  
